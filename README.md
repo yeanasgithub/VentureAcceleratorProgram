@@ -8,3 +8,5 @@ from CSU Bakersfield along with continuing researching on RANSAC algorithms
 in a Structure-From-Motion pipeline in consultation with NAVAIR scientists. 
 
 We welcome Mariah who is an alumnus of Business major!
+
+https://www.csub.edu/bpa/venture-accelerator
